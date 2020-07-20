@@ -1,0 +1,7 @@
+git config --global user.name "jfpalmeraniljacobr"
+git config --global user.email anil.jacob@jfpalmer.com
+
+
+Iam on my way to pass the DEVASC exam
+ At this rate + I will be ready for exam sooner
+I am a Git novice + 
